@@ -1,0 +1,27 @@
+{
+  "name": "nft_warranty_api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "eslint": "^9.17.0",
+    "globals": "^15.13.0",
+    "hardhat": "^2.22.17"
+  },
+  "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.27.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "moralis": "^2.27.2"
+  }
+}
