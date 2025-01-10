@@ -1,6 +1,5 @@
 NFT Metadata Fetch API
-+++++++++++++++++++++++
-
+----------------------
 Overview
 ---------
 This project demonstrates an API endpoint designed to fetch metadata and related information about NFTs from a public smart contract. It uses Moralis for blockchain integration and metadata retrieval.
